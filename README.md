@@ -1,3 +1,5 @@
+Fork of adafruit SAMD core files that contain board files required by custom designs.
+
 # Arduino Core for SAMD21 and SAMD51 CPU
 
 [![Build Status](https://github.com/adafruit/ArduinoCore-samd/workflows/Build/badge.svg)](https://github.com/adafruit/ArduinoCore-samd/actions)
